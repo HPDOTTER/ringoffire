@@ -1,0 +1,7 @@
+{
+  "indentRainbow.indentSetter": {},
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 4,
+  "prettier.useEditorConfig": false
+}
